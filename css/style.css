@@ -11,7 +11,7 @@ p {font-size: 1em; text-decoration-color: #111;}
 /* CABEÇALHO */
 
 .cabecalho {width: 100%; float: left; padding: 50px 8%; background-image: linear-gradient(orange, darkred);}
-.logo a {width: 218px; height: 48px; float: left; background: url(../img/abcd.png) no-repeat; font-size: 0;}
+.logo a {width: 270px; height: 90px; float: left; background: url(../img/rang.png) no-repeat; font-size: 0;}
 .cabecalho form {width: 30%; float: right;}
 .cabecalho input[type="text"] {width: 85%; float: left; padding: 15px 10px; border-radius: 5px 0 0 5px;}
 .cabecalho button {width: 15%; float: right; padding: 15px 10px; background-color: #000000; color: #fff; cursor: pointer; border-radius: 0 5px 5px 0;}
