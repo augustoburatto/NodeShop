@@ -4,13 +4,8 @@
 
 ## Sobre
 <p align="justify">
-    Uma aplicação que avalia seu tempo de digitação, analisando quantas letras e palavras foram digitadas dentro de um certo tempo.
+    
 </p>
-
-## Back-end
-```
-- Jquery
-```
 
 ## Front-end
 ```
@@ -21,4 +16,13 @@
 ## Como utilizar
 ```
 https://augustoburatto.github.io/ProjetoRangoo/
+```
+
+## Integrantes
+```
+Nome - Augusto Buratto Santana 
+E-mail: augusto.santana@aluno.faculdadeimpacta.com.br  
+
+Nome - Henrique Espadaro Serquera
+E-mail: henrique.serquera@aluno.faculdadeimpacta.com.br    
 ```
